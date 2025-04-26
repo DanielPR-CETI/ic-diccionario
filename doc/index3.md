@@ -1,2 +1,2 @@
 # Documento Prueba
-Este es un documeto de prueva con erores ortograficos.
+Este es un documento de prueba con errores ortográficos.
